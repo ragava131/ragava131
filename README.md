@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ragavendra!<br><br>🎓 Student | 💻 Programmer | 🚀 Tech Enthusiast<br><br>🐍 Learning Python & Java<br>🧠 Interested in AI & Deep Learning<br>💡 Love solving problems & building projects<br>📚 Always learning new technologies<br><br>🎯 Goal: Become a skilled Software Developer.<br>
+👋 Hi, I'm Ragavendra!<br><br>🎓 Student | 💻 Programmer | 🚀 Tech Enthusiast<br><br>🐍 Learning Python & Java<br>🧠 Interested in AI & cloud computing<br>💡 Love solving problems & building projects<br>📚 Always learning new technologies<br><br>🎯 Goal: Become a skilled Software Developer.<br>
 
 
 ## 🌐 Socials:
